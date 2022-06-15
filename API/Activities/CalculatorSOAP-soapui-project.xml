@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <con:soapui-project id="d2b6f95f-1e84-47e2-a457-4e633555b568" activeEnvironment="Default environment" name="CalculatorSOAP" resourceRoot="${workspaceDir}" soapui-version="5.6.0" abortOnError="false" runType="SEQUENTIAL" encryptionMode="Not encrypted" updated="3.10.1 2021-10-13T15:50:30Z" xmlns:con="http://eviware.com/soapui/config">
   <con:settings/>
   <con:interface xsi:type="con:WsdlInterface" id="dc465ccd-18fe-4353-bb4d-f7c1b851ddeb" wsaVersion="NONE" name="CalculatorSoap12" type="wsdl" bindingName="{http://tempuri.org/}CalculatorSoap12" soapVersion="1_2" anonymous="optional" definition="http://www.dneonline.com/calculator.asmx?wsdl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
