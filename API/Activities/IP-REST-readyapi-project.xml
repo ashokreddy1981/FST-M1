@@ -23,5 +23,4 @@ values (?,?,?);</query><stored-procedure>false</stored-procedure></con:configura
 // pw = new java.io.PrintWriter(fos)
 // testStepResult.writeTo(pw)
 // pw.close()
-  
 // fos.close()</con:script></con:eventHandlers><con:authRepository/><con:tags/></con:soapui-project>
